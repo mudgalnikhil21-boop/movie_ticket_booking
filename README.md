@@ -24,9 +24,6 @@
 
 <br />
 
-## 🎦 LIVE - DEMO 🌐
-  
-**UI** 👉 [LINK](https://quickshow-sigma-roan.vercel.app/)
 
 ![alt text](screencapture-quickshow-sigma-roan-vercel-app-2025-07-04-07_02_38.png)
 
@@ -51,9 +48,9 @@
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [API Documentation](#api-documentation)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+
+
+
 
 ---
 
